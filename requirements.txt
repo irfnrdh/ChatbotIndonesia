@@ -8,7 +8,7 @@ Markdown==2.6.11
 nltk==3.3
 numpy==1.15.0
 Pillow==5.2.0
-protobuf==3.6.0
+protobuf==3.18.3
 pytz==2018.5
 Sastrawi==1.0.1
 six==1.11.0
